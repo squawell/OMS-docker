@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -x
 
 sh docker-cimprov-1.0.0-27.universal.x86_64.sh --install
 VAR_DIR=/var/opt/microsoft/omsagent
